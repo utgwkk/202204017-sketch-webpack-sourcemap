@@ -6,6 +6,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].[contenthash].js',
   },
+  devtool: 'source-map',
   module: {
     rules: [
       {
@@ -15,5 +16,5 @@ module.exports = {
       },
     ],
   },
-  mode: 'development',
+  mode: 'production',
 };
