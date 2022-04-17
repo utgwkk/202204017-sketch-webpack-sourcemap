@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@susisu/promise-utils@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@susisu/promise-utils/-/promise-utils-0.1.1.tgz#7c762fa01da544b6e2b080301a29afeeca58e5eb"
-  integrity sha512-et9jr25fiD6pihm5ysqXRUB500UVxUysWGWS58SXTrSxQKOpFzHp3mwr642gegEA5QvBtH2duaImwBw7mdgnow==
+"@susisu/promise-utils@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@susisu/promise-utils/-/promise-utils-0.1.2.tgz#1ddce92e50484d1c9a0e38eb5a6efb44d8f6f226"
+  integrity sha512-ZD8LBp8mnLzPc0GzCfvzsVZNRsFZFL60Wyo5qjTnPSCkj5Cqp3+/YVcUfenqDWHrQBmwr7384SayLrHq0gusyA==
 
 "@types/eslint-scope@^3.7.3":
   version "3.7.3"
